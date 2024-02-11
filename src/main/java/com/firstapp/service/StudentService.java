@@ -1,6 +1,6 @@
 package com.firstapp.service;
 
-import lombok.extern.slf4j.Slf4j;
+// import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.Map;
 
 @Service
-@Slf4j
+// @Slf4j
 public class StudentService {
 
     @Autowired
